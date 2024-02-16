@@ -11,6 +11,7 @@
     <modules>
         <module>module-core</module>
         <module>module-web</module>
+        <module>newModule</module>
     </modules>
 
     <properties>
