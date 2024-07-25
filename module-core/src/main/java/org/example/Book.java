@@ -13,6 +13,15 @@ public class Book {
         return title;
     }
 
+   public String getTitle2() {
+        return title;
+    }
+       public String getTitle3() {
+        return title;
+    }
+       public String getTitle4() {
+        return title;
+    }
     public void setTitle(String title) {
         this.title = title;
     }
