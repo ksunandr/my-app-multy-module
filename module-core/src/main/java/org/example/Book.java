@@ -22,6 +22,21 @@ public class Book {
        public String getTitle4() {
         return title;
     }
+
+    public String getTitle11() {
+        return title;
+    }
+
+    public String getTitle22() {
+        return title;
+    }
+    public String getTitle33() {
+        return title;
+    }
+    public String getTitle44() {
+        return title;
+    }
+
     public void setTitle(String title) {
         this.title = title;
     }
